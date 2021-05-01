@@ -2,6 +2,7 @@ import React, { Component } from "react";
 import AppMarkdown from "./README.md";
 import Res1 from "./Resources/Res1/Index";
 import Res2 from "./Resources/Res2/Index";
+import Res3 from "./Resources/Res3/Index";
 import ReactMarkdown from "react-markdown";
 
 class App extends Component {
@@ -10,7 +11,7 @@ class App extends Component {
     this.state = { markdown: "" };
   }
 
-  componentWillMount() {
+  ComponentdidMount() {
     // Get the contents from the Markdown file and put them in the React state, so we can reference it in render() below.
     fetch(AppMarkdown)
       .then((res) => res.text())
@@ -24,6 +25,7 @@ class App extends Component {
         <ReactMarkdown children={markdown} />
         <Res1 />
         <Res2 />
+        <Res3 />
       </div>
     );
   }

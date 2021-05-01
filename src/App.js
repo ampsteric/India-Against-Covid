@@ -21,15 +21,20 @@ import Res19 from "./Resources/Res19/Index";
 import Res20 from "./Resources/Res20/Index";
 
 class App extends Component {
-
-
   render() {
     return (
       <div>
-        <a href="https://github.com/ampsteric/Covid-resources"> <div class="alert alert-primary" role="alert">
-  Click to Visit the Github repository for contributions!
-</div></a>
-  
+        <a href="https://github.com/ampsteric/Covid-resources">
+          {" "}
+          <div
+            class="alert alert-primary"
+            role="alert"
+            style={{ textAlign: "center" }}
+          >
+            Click to Visit the Github repository for contributions!
+          </div>
+        </a>
+
         <Res1 />
         <Res2 />
         <Res3 />
@@ -45,11 +50,11 @@ class App extends Component {
         <Res13 />
         <Res14 />
         <Res15 />
-        <Res16/>
-        <Res17/>
-        <Res18/>
-        <Res19/>
-        <Res20/>
+        <Res16 />
+        <Res17 />
+        <Res18 />
+        <Res19 />
+        <Res20 />
       </div>
     );
   }

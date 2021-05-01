@@ -1,2 +1,2 @@
 # Covid-resources
-Created with CodeSandbox
+Opensource contributions are welcomed!!

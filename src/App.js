@@ -7,6 +7,8 @@ import Res4 from "./Resources/Res4/Index";
 import Res5 from "./Resources/Res5/Index";
 import Res6 from "./Resources/Res6/Index";
 import Res7 from "./Resources/Res7/Index";
+import Res8 from "./Resources/Res8/Index";
+import Res9 from "./Resources/Res9/Index";
 import ReactMarkdown from "react-markdown";
 
 class App extends Component {
@@ -34,6 +36,8 @@ class App extends Component {
         <Res5 />
         <Res6 />
         <Res7 />
+        <Res8 />
+        <Res9 />
       </div>
     );
   }

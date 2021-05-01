@@ -1,5 +1,4 @@
-# Plasma donators:-
-A+ Manjeet Bhoria
+- # Plasma donators:-
 
 1.Srikanth O+ ,9700655144.
 

@@ -1,11 +1,8 @@
 {
-  "name": "react",
+  "name": "covid-resources",
   "version": "1.0.0",
-  "description": "React example starter project",
-  "keywords": [
-    "react",
-    "starter"
-  ],
+  "description": "",
+  "keywords": [],
   "main": "src/index.js",
   "dependencies": {
     "@types/marked": "2.0.2",

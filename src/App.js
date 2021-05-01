@@ -26,9 +26,10 @@ class App extends Component {
   render() {
     return (
       <div>
-   <div class="alert alert-secondary" role="alert">
-  This is a secondary alert—check it out!
-</div>
+        <a href="https://github.com/ampsteric/Covid-resources"> <div class="alert alert-primary" role="alert">
+  Click to Visit the Github repository for contributions!
+</div></a>
+  
         <Res1 />
         <Res2 />
         <Res3 />

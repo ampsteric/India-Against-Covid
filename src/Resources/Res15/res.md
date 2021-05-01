@@ -1,0 +1,2 @@
+ -  ## following link contains information regarding plasma donors , available beds in hospital (icu beds and normal beds), oxygen supply 
+    -  [youthindiafoundation](https://www.youthindiafoundation.com/covid/)

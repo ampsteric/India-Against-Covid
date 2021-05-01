@@ -1,0 +1,5 @@
+- #Verified for Doctor consultations
+  - Price - Free
+  - Location- On call/ on WhatsApp only 
+  - Contact -+91 95281 88278
+  - Self verified at 10:57 am at 30/04

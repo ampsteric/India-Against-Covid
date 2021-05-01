@@ -5,7 +5,10 @@
   "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "@material-ui/core": "4.11.4",
+    "@material-ui/styles": "4.11.4",
     "@types/marked": "2.0.2",
+    "bootstrap": "4.6.0",
     "marked": "2.0.3",
     "react": "17.0.2",
     "react-components-markdown": "0.2.0",

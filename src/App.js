@@ -14,6 +14,11 @@ import Res12 from "./Resources/Res12/Index";
 import Res13 from "./Resources/Res13/Index";
 import Res14 from "./Resources/Res14/Index";
 import Res15 from "./Resources/Res15/Index";
+import Res16 from "./Resources/Res16/Index";
+import Res17 from "./Resources/Res17/Index";
+import Res18 from "./Resources/Res18/Index";
+import Res19 from "./Resources/Res19/Index";
+import Res20 from "./Resources/Res20/Index";
 
 class App extends Component {
 
@@ -21,6 +26,9 @@ class App extends Component {
   render() {
     return (
       <div>
+   <div class="alert alert-secondary" role="alert">
+  This is a secondary alert—check it out!
+</div>
         <Res1 />
         <Res2 />
         <Res3 />
@@ -36,6 +44,11 @@ class App extends Component {
         <Res13 />
         <Res14 />
         <Res15 />
+        <Res16/>
+        <Res17/>
+        <Res18/>
+        <Res19/>
+        <Res20/>
       </div>
     );
   }

@@ -28,7 +28,6 @@ import Res26 from "./Resources/Res26/Index";
 import Res27 from "./Resources/Res27/Index";
 import Res28 from "./Resources/Res28/Index";
 import Res29 from "./Resources/Res29/Index";
-import Res30 from "./Resources/Res30/Index";
 
 class App extends Component {
   render() {
@@ -74,7 +73,16 @@ class App extends Component {
         <Res27 />
         <Res28 />
         <Res29 />
-        <Res30 />
+        <a href="https://drive.google.com/drive/folders/17CoIr8VxLaP08Ff8eLOZ5vxwLtVInNxO?usp=sharing">
+          {" "}
+          <div
+            className="alert alert-success"
+            role="alert"
+            style={{ textAlign: "center" }}
+          >
+            Click to Visit the Google drive for Photos related to Covid Resources.
+          </div>
+        </a>
       </div>
     );
   }

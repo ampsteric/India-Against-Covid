@@ -24,6 +24,11 @@ import Res22 from "./Resources/Res22/Index";
 import Res23 from "./Resources/Res23/Index";
 import Res24 from "./Resources/Res24/Index";
 import Res25 from "./Resources/Res25/Index";
+import Res26 from "./Resources/Res26/Index";
+import Res27 from "./Resources/Res27/Index";
+import Res28 from "./Resources/Res28/Index";
+import Res29 from "./Resources/Res29/Index";
+import Res30 from "./Resources/Res30/Index";
 
 class App extends Component {
   render() {
@@ -65,6 +70,11 @@ class App extends Component {
         <Res23 />
         <Res24 />
         <Res25 />
+        <Res26 />
+        <Res27 />
+        {/* <Res28 /> */}
+        {/* <Res29 /> */}
+        <Res30 />
       </div>
     );
   }

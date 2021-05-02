@@ -27,7 +27,7 @@ class App extends Component {
         <a href="https://github.com/ampsteric/Covid-resources">
           {" "}
           <div
-            class="alert alert-primary"
+            className="alert alert-primary"
             role="alert"
             style={{ textAlign: "center" }}
           >

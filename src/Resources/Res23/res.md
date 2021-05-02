@@ -1,0 +1,2 @@
+- # Confirmation from Lemon Tree Hotel, Sector 60, Gurgaon that all their rooms are open for COVID Patients with Oxygen concentrator from 1st May 2021. Will communicate shortly charges for same. The hotel has full supervision of Doctors and nurses.
+  - land line - 0124-7142323

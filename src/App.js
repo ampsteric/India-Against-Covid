@@ -72,8 +72,8 @@ class App extends Component {
         <Res25 />
         <Res26 />
         <Res27 />
-        {/* <Res28 /> */}
-        {/* <Res29 /> */}
+        <Res28 />
+        <Res29 />
         <Res30 />
       </div>
     );

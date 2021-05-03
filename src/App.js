@@ -28,22 +28,32 @@ import Res26 from "./Resources/Res26/Index";
 import Res27 from "./Resources/Res27/Index";
 import Res28 from "./Resources/Res28/Index";
 import Res29 from "./Resources/Res29/Index";
+import MuiAlert from '@material-ui/lab/Alert';
+import { makeStyles } from '@material-ui/core/styles';
+
+function Alert(props) {
+  return <MuiAlert elevation={6} variant="filled" {...props} />;
+}
+
 
 class App extends Component {
+
   render() {
     return (
       <div>
-        <a href="https://github.com/ampsteric/Covid-resources">
+        
+        <a href="https://drive.google.com/drive/folders/17CoIr8VxLaP08Ff8eLOZ5vxwLtVInNxO?usp=sharing">
           {" "}
-          <div
-            className="alert alert-primary"
+          {/* <div
+            className="alert alert-success"
             role="alert"
             style={{ textAlign: "center" }}
-          >
-            Click to Visit the Github repository for contributions!
-          </div>
-        </a>
+          > */}
+                <Alert style={{ textAlign: "center" }} severity="warning">            Click to Visit the Google drive for Photos related to Covid Resources.
+!</Alert>
 
+          {/* </div> */}
+        </a>
         <Res1 />
         <Res2 />
         <Res3 />
@@ -73,16 +83,18 @@ class App extends Component {
         <Res27 />
         <Res28 />
         <Res29 />
-        <a href="https://drive.google.com/drive/folders/17CoIr8VxLaP08Ff8eLOZ5vxwLtVInNxO?usp=sharing">
+        <a href="https://github.com/ampsteric/Covid-resources">
           {" "}
+
           <div
-            className="alert alert-success"
+            className="alert alert-primary"
             role="alert"
             style={{ textAlign: "center" }}
           >
-            Click to Visit the Google drive for Photos related to Covid Resources.
+            Click to Visit the Github repository for contributions!
           </div>
         </a>
+        
       </div>
     );
   }

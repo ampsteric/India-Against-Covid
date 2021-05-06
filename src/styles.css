@@ -7,15 +7,16 @@ h1{
   color:#5DF59C;
   /* color:#212121; */
 }
-h2{
+h2,
+h3{
   color:#5DF59C;
   /* color:#212121; */
 }
 a:link,
 a:visited{
-color:#212121;
+color:rgb(53, 147, 255);
 text-decoration: none;
-background-color: #5DF59C
+background-color: #151D33
 }
 .div-wrapper{
   background-color: rgb(43, 42, 42);

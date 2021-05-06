@@ -1,64 +1,64 @@
 - ##  Hospital Bed Availability Online:
   -  How to Check Vacant Beds Availability Online in Hospitals in COVID 19 Emergency
 
-Gurgaon
+  - Gurgaon
 http://covidggn.com/
 
-Delhi
+  - Delhi
 https://coviddelhi.com
 
-Thane
+  - Thane
 https://covidthane.org/availabiltyOfHospitalBeds.html
 
-Bengaluru
+  - Bengaluru
 https://covidbengaluru.com/
 
-Andhra Pradesh
+  - Andhra Pradesh
 https://covidaps.com
 
-Telangana
+  - Telangana
 https://covidtelangana.com
 
-West Bengal
+  - West Bengal
 https://covidwb.com
 
-Pune
+  - Pune
 https://covidpune.com
 
-Ahmedabad
-https://covidamd.com
+  - Ahmedabad
+  - https://covidamd.com
 https://ahna.org.in/covid19.html
 
-Vadodara
+  - Vadodara
 https://covidbaroda.com
 
-Nagpur
+  - Nagpur
 http://nsscdcl.org/covidbeds/AvailableHospitals.jsp
 
-Nashik
+  - Nashik
 https://covidnashik.com
 
-Madhya Pradesh
+  - Madhya Pradesh
 https://covidmp.com
 
-Uttar Pradesh
+  - Uttar Pradesh
 http://dgmhup.gov.in/en/CovidReport
 
-Rajasthan 
+  - Rajasthan 
 https://covidinfo.rajasthan.gov.in/COVID19HOSPITALBEDSSTATUSSTATE.aspx
 
-Bhopal
+  - Bhopal
 https://bhopalcovidbeds.in/
 
-Haryana
+  - Haryana
 https://coronaharyana.in/
 
-Tamil nadu
-https://covidtnadu.com
+  - Tamil nadu
+  - https://covidtnadu.com
 https://stopcorona.tn.gov.in/beds.php
 
-Beed, Maharashtra:
+  - Beed, Maharashtra:
 https://covidbeed.com
 
-Gandhinagar, Gujarat:
+  - Gandhinagar, Gujarat:
 https://covidgandhinagar.com

@@ -31,6 +31,6 @@ background-color: #5DF59C
 .MuiAlert-filledWarning{
   font-family: "Space Mono", Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   background-color: #5DF59C !important;
-  color: black;
+  color: black !important;
   font-weight: 700;
 }

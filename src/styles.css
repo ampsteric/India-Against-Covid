@@ -1,4 +1,36 @@
 .App {
-  font-family: sans-serif;
-  text-align: center;
+  font-family: "Space Mono", Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  background-color:#212121;
+  color : whitesmoke;
+}
+h1{
+  color:#5DF59C;
+  /* color:#212121; */
+}
+h2{
+  color:#5DF59C;
+  /* color:#212121; */
+}
+a:link,
+a:visited{
+color:#212121;
+text-decoration: none;
+background-color: #5DF59C
+}
+.div-wrapper{
+  background-color: rgb(43, 42, 42);
+  /* background-color: #5DF59C; */
+  border-radius:10px;
+}
+.alert-primary{
+  font-family: "Space Mono", Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  background-color: #5DF59C;
+  color: black;
+  font-weight: 700;
+}
+.MuiAlert-filledWarning{
+  font-family: "Space Mono", Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+  background-color: #5DF59C !important;
+  color: black;
+  font-weight: 700;
 }

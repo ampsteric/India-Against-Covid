@@ -28,20 +28,18 @@ import Res26 from "./Resources/Res26/Index";
 import Res27 from "./Resources/Res27/Index";
 import Res28 from "./Resources/Res28/Index";
 import Res29 from "./Resources/Res29/Index";
-import MuiAlert from '@material-ui/lab/Alert';
-import { makeStyles } from '@material-ui/core/styles';
+import MuiAlert from "@material-ui/lab/Alert";
+import "./styles.css";
+import { makeStyles } from "@material-ui/core/styles";
 
 function Alert(props) {
   return <MuiAlert elevation={6} variant="filled" {...props} />;
 }
 
-
 class App extends Component {
-
   render() {
     return (
-      <div>
-        
+      <div className="App">
         <a href="https://drive.google.com/drive/folders/17CoIr8VxLaP08Ff8eLOZ5vxwLtVInNxO?usp=sharing">
           {" "}
           {/* <div
@@ -49,43 +47,102 @@ class App extends Component {
             role="alert"
             style={{ textAlign: "center" }}
           > */}
-                <Alert style={{ textAlign: "center" }} severity="warning">            Click to Visit the Google drive for Photos related to Covid Resources.
-!</Alert>
-
+          <Alert style={{ textAlign: "center" }} severity="warning">
+            {" "}
+            Click to Visit the Google drive for Photos related to Covid
+            Resources. !
+          </Alert>
           {/* </div> */}
         </a>
-        <Res1 />
-        <Res2 />
-        <Res3 />
-        <Res4 />
-        <Res5 />
-        <Res6 />
-        <Res7 />
-        <Res8 />
-        <Res9 />
-        <Res10 />
-        <Res11 />
-        <Res12 />
-        <Res13 />
-        <Res14 />
-        <Res15 />
-        <Res16 />
-        <Res17 />
-        <Res18 />
-        <Res19 />
-        <Res20 />
-        <Res21 />
-        <Res22 />
-        <Res23 />
-        <Res24 />
-        <Res25 />
-        <Res26 />
-        <Res27 />
-        <Res28 />
-        <Res29 />
+        <div className="div-wrapper">
+          <Res1 />
+        </div>{" "}
+        <div className="div-wrapper">
+          <Res2 />
+        </div>{" "}
+        <div className="div-wrapper">
+          <Res3 />
+        </div>{" "}
+        <div className="div-wrapper">
+          <Res4 />
+        </div>{" "}
+        <div className="div-wrapper">
+          <Res5 />
+        </div>{" "}
+        <div className="div-wrapper">
+          <Res6 />
+        </div>{" "}
+        <div className="div-wrapper">
+          <Res7 />
+        </div>{" "}
+        <div className="div-wrapper">
+          <Res8 />
+        </div>{" "}
+        <div className="div-wrapper">
+          <Res9 />
+        </div>{" "}
+        <div className="div-wrapper">
+          <Res10 />
+        </div>
+        <div className="div-wrapper">
+          <Res11 />
+        </div>
+        <div className="div-wrapper">
+          <Res12 />
+        </div>
+        <div className="div-wrapper">
+          <Res13 />
+        </div>
+        <div className="div-wrapper">
+          <Res14 />
+        </div>
+        <div className="div-wrapper">
+          <Res15 />
+        </div>
+        <div className="div-wrapper">
+          <Res16 />
+        </div>
+        <div className="div-wrapper">
+          <Res17 />
+        </div>
+        <div className="div-wrapper">
+          <Res18 />
+        </div>
+        <div className="div-wrapper">
+          <Res19 />
+        </div>
+        <div className="div-wrapper">
+          <Res20 />
+        </div>
+        <div className="div-wrapper">
+          <Res21 />
+        </div>
+        <div className="div-wrapper">
+          <Res22 />
+        </div>
+        <div className="div-wrapper">
+          <Res23 />
+        </div>
+        <div className="div-wrapper">
+          <Res24 />
+        </div>
+        <div className="div-wrapper">
+          <Res25 />
+        </div>
+        <div className="div-wrapper">
+          <Res26 />
+        </div>
+        <div className="div-wrapper">
+          <Res27 />
+        </div>
+        <div className="div-wrapper">
+          <Res28 />
+        </div>
+        <div className="div-wrapper">
+          <Res29 />
+        </div>
         <a href="https://github.com/ampsteric/Covid-resources">
           {" "}
-
           <div
             className="alert alert-primary"
             role="alert"
@@ -94,7 +151,6 @@ class App extends Component {
             Click to Visit the Github repository for contributions!
           </div>
         </a>
-        
       </div>
     );
   }

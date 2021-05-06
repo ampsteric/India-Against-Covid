@@ -1,0 +1,24 @@
+- ##  Telegram Groups for Covid Support for each City in India:
+
+  - https://t.me/India_With_Covid_Fights
+  - https://t.me/CovidPatna
+  - https://t.me/CovidAhmedabad
+  - https://t.me/CovidBengaluru
+  - https://t.me/covidbhopal
+  - https://t.me/CovidChandigarh
+  - https://t.me/CovidCoimbatore
+  - https://t.me/CovidHyderabad
+  - https://t.me/CovidIndore
+  - https://t.me/CovidJaipur
+  - https://t.me/CovidJodhpur
+  - https://t.me/CovidKolkata
+  - https://t.me/CovidLucknow 
+  - https://t.me/CovidMumbai
+  - https://t.me/CovidNCR
+  - https://t.me/CovidNagpur
+  - https://t.me/CovidNashik
+  - https://t.me/CovidPune
+  - https://t.me/CovidSurat
+  - https://t.me/CovidUdaipur
+  - https://t.me/CovidVapi
+  - https://t.me/CovidVaranasi
